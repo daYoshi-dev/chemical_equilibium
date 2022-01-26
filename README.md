@@ -13,3 +13,7 @@ The rate of the conversion can be influenced via the "anteil"-Parameter
 
 This is a first Python-Project so efficiency isn't great but it works!
 Have Fun
+
+
+
+FYI: the Embedded version is not functional, it was intended for more features such as abrebone values and filtering but it is a work in progress
